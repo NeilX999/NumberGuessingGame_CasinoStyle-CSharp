@@ -1,0 +1,13 @@
+D:\Dev\C#\CasinoGameNumberGuessingProgram\CasinoGameNumberGuessingProgram\bin\Debug\netcoreapp3.1\CasinoGameNumberGuessingProgram.exe
+D:\Dev\C#\CasinoGameNumberGuessingProgram\CasinoGameNumberGuessingProgram\bin\Debug\netcoreapp3.1\CasinoGameNumberGuessingProgram.deps.json
+D:\Dev\C#\CasinoGameNumberGuessingProgram\CasinoGameNumberGuessingProgram\bin\Debug\netcoreapp3.1\CasinoGameNumberGuessingProgram.runtimeconfig.json
+D:\Dev\C#\CasinoGameNumberGuessingProgram\CasinoGameNumberGuessingProgram\bin\Debug\netcoreapp3.1\CasinoGameNumberGuessingProgram.runtimeconfig.dev.json
+D:\Dev\C#\CasinoGameNumberGuessingProgram\CasinoGameNumberGuessingProgram\bin\Debug\netcoreapp3.1\CasinoGameNumberGuessingProgram.dll
+D:\Dev\C#\CasinoGameNumberGuessingProgram\CasinoGameNumberGuessingProgram\bin\Debug\netcoreapp3.1\CasinoGameNumberGuessingProgram.pdb
+D:\Dev\C#\CasinoGameNumberGuessingProgram\CasinoGameNumberGuessingProgram\obj\Debug\netcoreapp3.1\CasinoGameNumberGuessingProgram.csprojAssemblyReference.cache
+D:\Dev\C#\CasinoGameNumberGuessingProgram\CasinoGameNumberGuessingProgram\obj\Debug\netcoreapp3.1\CasinoGameNumberGuessingProgram.AssemblyInfoInputs.cache
+D:\Dev\C#\CasinoGameNumberGuessingProgram\CasinoGameNumberGuessingProgram\obj\Debug\netcoreapp3.1\CasinoGameNumberGuessingProgram.AssemblyInfo.cs
+D:\Dev\C#\CasinoGameNumberGuessingProgram\CasinoGameNumberGuessingProgram\obj\Debug\netcoreapp3.1\CasinoGameNumberGuessingProgram.csproj.CoreCompileInputs.cache
+D:\Dev\C#\CasinoGameNumberGuessingProgram\CasinoGameNumberGuessingProgram\obj\Debug\netcoreapp3.1\CasinoGameNumberGuessingProgram.dll
+D:\Dev\C#\CasinoGameNumberGuessingProgram\CasinoGameNumberGuessingProgram\obj\Debug\netcoreapp3.1\CasinoGameNumberGuessingProgram.pdb
+D:\Dev\C#\CasinoGameNumberGuessingProgram\CasinoGameNumberGuessingProgram\obj\Debug\netcoreapp3.1\CasinoGameNumberGuessingProgram.genruntimeconfig.cache
